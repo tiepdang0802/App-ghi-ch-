@@ -1,0 +1,6 @@
+{
+  "name": "Ghi Chú Công Việc Cá Nhân",
+  "description": "Ứng dụng ghi chú công việc cá nhân, nhắc hẹn deadline, đồng bộ Cloud với Google Tasks và Keep, tự động chuyển đổi ghi chú thành biên bản họp và phân công nhiệm vụ bằng AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
